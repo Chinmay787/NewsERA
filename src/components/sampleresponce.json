@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "WorldView: UK sends engineers to Polish border; India repeals 3 farming laws",
+            "description": "The UK is now getting involved in Poland's attempts to secure its border with Belarus, and India's Prime Minister Narendra Modi is repealing three contentious agriculture laws that have sparked yearlong protests. CBS News foreign correspondent Ian Lee joins \"…",
+            "url": "https://www.cbsnews.com/video/worldview-uk-sends-engineers-to-polish-border-india-repeals-3-farming-laws/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/11/19/88d32517-d149-452b-9196-0498b08fea4d/thumbnail/1200x630/bde7586b41d80f059d6ff2e1834b758f/cbsn-fusion-worldview-uk-sends-engineers-to-polish-border-india-repeals-3-farming-laws-thumbnail-839548-640x360.jpg",
+            "publishedAt": "2021-11-19T14:39:39+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Arpan Rai",
+            "title": "Nasa images show how Delhi is being buried in ‘a river of smoke’ that can be seen from space",
+            "description": "Schools and colleges shut indefinitely after India’s top court terms poor air quality levels an ‘emergency’",
+            "url": "http://www.independent.co.uk/asia/india/delhi-smog-farm-fires-nasa-b1960633.html",
+            "urlToImage": "https://static.independent.co.uk/2021/11/19/13/indiafire_vir_2021315_lrg.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-11-19T13:26:31Z",
+            "content": "Recent satellite images released by Nasa show Delhi and the surrounding regions resembling an open-air chimney, as a vast plume of smoke is seen stretching hundreds of miles across Indias national ca… [+4135 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "hindustantimes.com",
+            "title": "Farm laws repealed, but Sukhbir Badal rules out alliance with BJP",
+            "description": "Badal's Akali Dal left the BJP-ruled NDA in September last year, days after the three controversial agricultural laws were passed. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/farm-laws-revoked-but-sukhbir-badal-rules-out-alliance-with-bjp-101637323021046.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/11/19/1600x900/3b857be8-47e1-11ec-8579-24eef716c065_1637179616161_1637323224397.jpg",
+            "publishedAt": "2021-11-19T12:11:19+00:00",
+            "content": "The Shiromani Akali Dal (SAD) will not join hands with its former partner, the Bharatiya Janata Party (BJP), SAD president Sukhbir Singh Badal said on Friday, reacting to Prime Minister Narendra Modi… [+1804 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "PTI",
+            "title": "India-China border issue: Beijing has ‘no credible explanation’ on violation of agreements, says Jaishankar",
+            "description": "The eastern Ladakh border stand-off between the Indian and Chinese militaries erupted on May 5 last year following a violent clash in the Pangong lake areas.",
+            "url": "https://indianexpress.com/article/india/india-china-border-issue-jaishankar-7630482/",
+            "urlToImage": "https://images.indianexpress.com/2021/08/S-Jaishankar-1-1.jpg",
+            "publishedAt": "2021-11-19T11:57:36+00:00",
+            "content": "External Affairs Minister S Jaishankar said on Friday that India and China are going through a “particularly bad patch” in their ties because Beijing has taken a set of actions in violation of agreem… [+5763 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Srinivasa Rao Apparasu",
+            "title": "Naidu breaks down, walks out of Andhra assembly over abusive comments",
+            "description": "“I will not attend this assembly hereafter. I will return to the House only after becoming the chief minister,” said Naidu | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/naidu-breaks-down-walks-out-of-andhra-assembly-over-abusive-comments-101637318170796.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/11/19/1600x900/666a9458-4924-11ec-a28e-b4a771ac6fd5_1637318168697.png",
+            "publishedAt": "2021-11-19T10:36:10+00:00",
+            "content": "Former Andhra Pradesh chief minister N Chandrababu Naidu broke down on Friday as he walked out of the state assembly vowing not to re-enter the House for the rest of its term over the abusive comment… [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "ABC News",
+            "title": "Indian PM announces repeal of controversial farm laws after more than a year of protests",
+            "description": "The controversial farm laws were passed in September last year, prompting widespread protests from farmers who argued the law would shatter their livelihoods.",
+            "url": "https://www.abc.net.au/news/2021-11-19/modi-indian-government-to-repeal-controversial-farm-laws/100635420",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/468ec528c491b3162f2ab6cecb7ae5ac?impolicy=wcms_crop_resize&cropH=2653&cropW=4716&xPos=282&yPos=535&width=862&height=485",
+            "publishedAt": "2021-11-19T06:40:47+00:00",
+            "content": "Indian Prime Minister Narendra Modi has announced the repeal of three controversial farm laws against which farmers have protested for more than a year, representing a significant backdown by the gov… [+3085 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Indian e-commerce giant Flipkart to acquire an online pharmacy marketplace to foray into healthcare space",
+            "description": "Walmart-backed Flipkart is acquiring online pharmacy startup SastaSundar to enter the healthcare segment in India as e-commerce battle intensifies in the world’s second largest internet market. Flipkart said it has signed definitive agreements to acquire a ma…",
+            "url": "https://techcrunch.com/2021/11/18/indian-e-commerce-giant-flipkart-to-acquire-an-online-pharmacy-marketplace-to-foray-into-healthcare-space/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/flipkart_techcrunch.jpg?w=594",
+            "publishedAt": "2021-11-19T06:31:48Z",
+            "content": "Walmart-backed Flipkart is acquiring online pharmacy startup SastaSundar to enter the healthcare segment in India as e-commerce battle intensifies in the worlds second largest internet market.\r\nFlipk… [+1449 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": null,
+            "title": "Chennai rains: IMD withdraws red alert, but heavy rains to continue",
+            "description": "The depression over the southwest Bay of Bengal, off the north Tamil Nadu coast, crossed between Puducherry and Chennai on the morning of Friday, November 19, the India Meteorological Department (IMD) said. The depression crossed the coast between 3-4 am. As …",
+            "url": "https://www.thenewsminute.com/article/chennai-rains-imd-withdraws-red-alert-heavy-rains-continue-157801",
+            "urlToImage": "https://www.thenewsminute.com/sites/default/files/Chennai_Rains_TamilNadu_111121_1200x800_PTI.jpg",
+            "publishedAt": "2021-11-19T05:06:47+00:00",
+            "content": "The depression over the southwest Bay of Bengal, off the north Tamil Nadu coast, crossed between Puducherry and Chennai on the morning of Friday, November 19.The depression over the southwest Bay of … [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "India PM Narendra Modi repeals controversial farm laws",
+            "description": "PM Narendra Modi announced the decision after more than a year of protests by farmers.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-59342627",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/142D0/production/_120704628_gettyimages-1235529724.jpg",
+            "publishedAt": "2021-11-19T04:52:24.0012409Z",
+            "content": "Image source, Getty Images\r\nImage caption, Farmers had been demanding the repeal of three controversial laws\r\nIndian PM Narendra Modi has announced the repeal of three controversial farm laws after a… [+2426 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SHEIKH SAALIQ",
+            "title": "Bowing to protests, India's Modi agrees to repeal farm laws",
+            "description": "NEW DELHI (AP) — In a major reversal, Indian Prime Minister Narendra Modi announced Friday that he would repeal the controversial agriculture laws that sparked yearlong protests from tens of thousands of farmers and posed a significant challenge to his admini…",
+            "url": "https://apnews.com/77a931b25cf3a74727cf9514169a68cd",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/da4a52e8c1404dfeb6731b8b1520fd5c/3000.jpeg",
+            "publishedAt": "2021-11-19T04:16:33Z",
+            "content": "NEW DELHI (AP) — In a major reversal, Indian Prime Minister Narendra Modi announced Friday that he would repeal the controversial agriculture laws that sparked yearlong protests from tens of thousand… [+6025 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Ananth Krishnan",
+            "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+            "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+            "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+            "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+            "publishedAt": "2021-07-22T15:47:01Z",
+            "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "UK continues with reopening plan despite concerns",
+            "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+            "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+            "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+            "publishedAt": "2021-05-15T09:33:48Z",
+            "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajat Pandit",
+            "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+            "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+            "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T08:29:00Z",
+            "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Bloomberg",
+            "title": "Even record death toll may hide extent of India’s Covid crisis",
+            "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+            "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+            "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+            "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T03:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "Coronavirus in India live updates: Zydus' Virafin gets DCGI nod for Covid treatment",
+            "description": "In yet another grim milestone, India recorded 3.3 lakh new Covid-19 cases, and 2,263 deaths in a day. Meanwhile, active cases crossed the 24-lakh mar",
+            "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-covid-19-vaccine-cases-lockdown-live-updates-23-april-2021/liveblog/82205841.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82205841,width-1070,height-580,imgsize-148788,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-22T16:20:06Z",
+            "content": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment\r\nMake Covid-19 vaccination affordable, accessible through Jan Aushadi scheme: IMA\r\nThe IMA has demanded that the Covid-19 vaccine … [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "I'm fighting my own benchmarks - R Ashwin | ESPNcricinfo.com",
+            "description": "India's No. 1 offspinner talks to Manjrekar on his form abroad, injuries and more | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102228/fighting-my-own-benchmarks-r-ashwin",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219773_1296x729.jpg",
+            "publishedAt": "2020-04-25T03:00:09Z",
+            "content": "R Ashwin has said that he is \"fighting my own benchmarks\" because his Test performances overseas are being measured against his heroics in India. Despite being the country's best long-form spinner in… [+3347 chars]"
+        }
+    ]
+}
